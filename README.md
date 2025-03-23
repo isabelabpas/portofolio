@@ -28,6 +28,7 @@ This will help guide you through the different projects I have displayed in my p
 | Project Link | Project Description | Additional Comments |
 |---|---|---|
 | 🍴 [Clustering Analysis on Dietary Patterns](https://github.com/isabelabpas/jmp_projects/blob/main/Analysis%20on%20Student%20Dietary%20Patterns.md) | A | A |  
+| 📘 [Clustering Analysis on Study Habits](https://github.com/isabelabpas/jmp_projects/blob/main/Analysis%20on%20Study%20Habits.md) | A | A |  
 
 # R
 | Project Link | Project Description | Additional Comments |
