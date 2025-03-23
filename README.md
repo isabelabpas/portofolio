@@ -5,9 +5,9 @@ This will help guide you through the different projects I have displayed in my p
 🔗 [Excel](#Excel)  
 🔗 [Tableau](#Tableau)  
 🔗 [SQL](#SQL)  
-🔗 [JMP SAS](#JMP_SAS)  
+🔗 [JMP SAS](#JMP-SAS)  
 🔗 [R](#R)  
-🔗 [Writing Samples](#Writing_Samples)  
+🔗 [Writing Samples](#Writing-Samples)  
 
 # Excel
 
