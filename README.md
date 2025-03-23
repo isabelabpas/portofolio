@@ -7,7 +7,7 @@ This will help guide you through the different projects I have displayed in my p
 🔗 [SQL](#SQL)  
 🔗 [JMP SAS](#JMP-SAS)  
 🔗 [R](#R)  
-🔗 [Writing Samples](#Writing-Samples)  
+🔗 [Writing Samples](##Writing-Samples)  
 
 # Excel
 
@@ -19,4 +19,4 @@ This will help guide you through the different projects I have displayed in my p
 
 # R
 
-# Writing Samples
+## Writing Samples
