@@ -1,14 +1,18 @@
 # 🔎 Portfolio Guide
 This will help guide you through the different projects I have displayed in my portfolio. You can find them below, separated by skill and/or language & software (while of course projects employ multiple programs, I have classified them by scope of use).
 
-### 🗂️ Table of Contents 
-🔘 [Excel](#Excel)  
-🔘 [Tableau](#Tableau)  
-🔘 [SQL](#SQL)  
-🔘 [JMP SAS](#JMP-SAS)  
-🔘 [R](#R)  
-🔘 [Writing Samples](#Writing-Samples)  
+  ---
+### 🗂️ Table of Contents  
+  
+• <i> [Excel](#Excel) </i>   
+• <i> [Tableau](#Tableau) </i>  
+• <i> [SQL](#SQL) </i>  
+• <i> [JMP SAS](#JMP-SAS) </i>  
+• <i> [R](#R) </i>  
+• <i> [Writing Samples](#Writing-Samples) </i>  
 
+  ---
+  
 # Excel
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
@@ -18,23 +22,28 @@ This will help guide you through the different projects I have displayed in my p
 # Tableau
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
-| 🏕️ [Adventure Works Project](https://github.com/isabelabpas/tableau_projects/tree/7a4031b6deb0238b24ea5ac84c5ea66067d0866f/Adventure%20Works%20Project) | A | A |
+| 🏕️ [Adventure Works Project](https://github.com/isabelabpas/tableau_projects/tree/7a4031b6deb0238b24ea5ac84c5ea66067d0866f/Adventure%20Works%20Project) | 🚧 In Progress... | 🚧 In Progress... |
 
+<!--
 # SQL
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
 | TBD | TBD | TBD |
+-->
 
 # JMP SAS
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
-| 🍴 [Clustering Analysis on Dietary Patterns](https://github.com/isabelabpas/jmp_projects/blob/main/Analysis%20on%20Student%20Dietary%20Patterns.md) | A | Data Exploration, Clustering Techniques, Statistical Analysis, Data Visualization, Multivariate Analysis, Statistical Charting |
+| 💵 [Analysis on Salary Variations](https://github.com/isabelabpas/jmp_projects/tree/6f0354de177c899f95f0642c7b621cca1fb00cb2/JMP%20Salary%20Analysis) | A | Correlation and Regression Analysis, Analysis of Variance (ANOVA), Data Visualization, Statistical Testing, Tukey Kramer HSD Testing, Statistical Interpretation in Business Context |
 | 📘 [Clustering Analysis on Study Habits](https://github.com/isabelabpas/jmp_projects/blob/main/Analysis%20on%20Study%20Habits.md) | A | Data Exploration, Clustering Techniques, Statistical Analysis, Data Visualization, Multivariate Analysis, Statistical Charting |
+| 🍴 [Clustering Analysis on Dietary Patterns](https://github.com/isabelabpas/jmp_projects/blob/main/Analysis%20on%20Student%20Dietary%20Patterns.md) | A | Data Exploration, Clustering Techniques, Statistical Analysis, Data Visualization, Multivariate Analysis, Statistical Charting |
 
+<!--
 # R
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
 | TBD | TBD | TBD |
+-->
 
 # Writing Samples
 | Project Link | Project Description | Skills Showcased |
