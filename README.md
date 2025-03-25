@@ -3,10 +3,10 @@ This will help guide you through the different projects I have displayed in my p
 
   ---
 ### 🗂️ Table of Contents  
-<!-- • <i> [SQL](#SQL) </i>  -->  
 <!-- • <i> [R](#R) </i>  -->
 • <i> [Excel](#Excel) </i>   
 • <i> [Tableau](#Tableau) </i>  
+• <i> [SQL](#SQL) </i>  
 • <i> [JMP SAS](#JMP-SAS) </i>  
 • <i> [Writing Samples](#Writing-Samples) </i>  
 
@@ -24,11 +24,10 @@ This will help guide you through the different projects I have displayed in my p
 | 🧃 [Beverage Sales Dashboarding](https://github.com/isabelabpas/excel_projects/tree/main/Beverage%20Sales%20Project) | This project involved creating an interactive dashboard in Excel to analyze beverage sales data. The data was first prepared using Tableau Prep, where data transformation techniques were applied, including creating calculated columns, performing table joins, and executing unions to consolidate the dataset. The transformed data was then imported into Excel, where pivot tables and pivot charts were designed for analysis. Using VBA, the dashboard was programmed for dynamic updates, enabling charts and tables to refresh automatically when new data was added. The final dashboard presents a simple interface for exploring sales trends. | Tableau Prep (data preparation and transformation), Excel Pivot Tables, Excel Pivot Charts, VBA and Macros, Excel Dashboarding |
 | 🏕️ [Adventure Works Project](https://github.com/isabelabpas/tableau_projects/tree/main/Adventure%20Works%20Project) | 🚧 In Progress... | 🚧 In Progress... |
 
-<!--
 # SQL
 | Project Link | Project Description | Skills Showcased |
 |---|---|---|
--->
+| 🥢 [Danny's Diner Case Study](https://github.com/isabelabpas/SQL_projects/blob/main/8%20Week%20SQL%20Challenge/Danny's%20Diner%20Case%20Study.md) |In this project, I used SQL to help Danny’s Diner analyze customer purchasing patterns, spending habits, and favourite menu items. By querying sales, menu, and member data, I answered key business questions and provided insights to help improve the customer experience and expand their loyalty program. This project is part of a compilation of case studies within the 8-Week SQL Challenge. | SQL Querying, Data Analysis, Subqueries, Data Validation, Problem Solving, BI|
 
 # JMP SAS
 | Project Link | Project Description | Skills Showcased |
